@@ -1,0 +1,7 @@
+﻿<resources>
+
+    <string name="app_name">超级经典连连看</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+     <string name="version">2.0</string>
+</resources>
